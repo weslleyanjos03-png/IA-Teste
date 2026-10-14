@@ -4,7 +4,7 @@
 
 **Organize tarefas, leads, propostas, produção, entregas e suporte em um quadro Kanban gratuito, responsivo e sem servidor.**
 
-[🚀 Acessar o aplicativo](https://weslleyanjos03-png.github.io/IA-Teste/) · [⭐ Dar uma estrela](https://github.com/weslleyanjos03-png/IA-Teste) · [🐛 Relatar problema](https://github.com/weslleyanjos03-png/IA-Teste/issues)
+[🚀 Acessar o aplicativo](https://weslleyanjos03-png.github.io/kanban-flow/) · [⭐ Dar uma estrela](https://github.com/weslleyanjos03-png/kanban-flow) · [🐛 Relatar problema](https://github.com/weslleyanjos03-png/kanban-flow/issues)
 
 ### ✨ Funcionalidades
 
@@ -18,7 +18,7 @@
 
 ### ⚡ Como usar
 
-Acesse a **[demonstração online](https://weslleyanjos03-png.github.io/IA-Teste/)** e comece a organizar suas tarefas. Para executar localmente, baixe o repositório e abra o arquivo **index.html** no navegador. Não é necessário criar conta, instalar dependências ou configurar backend.
+Acesse a **[demonstração online](https://weslleyanjos03-png.github.io/kanban-flow/)** e comece a organizar suas tarefas. Para executar localmente, baixe o repositório e abra o arquivo **index.html** no navegador. Não é necessário criar conta, instalar dependências ou configurar backend.
 
 ### 🔒 Privacidade
 
@@ -30,7 +30,7 @@ O quadro começa vazio: nenhuma tarefa ou dado de cliente é publicado com o apl
 
 ### 🤝 Comunidade
 
-Encontrou um bug ou quer propor uma melhoria? [Abra uma issue](https://github.com/weslleyanjos03-png/IA-Teste/issues). Não envie senhas, backups ou dados reais de clientes em issues públicas.
+Encontrou um bug ou quer propor uma melhoria? [Abra uma issue](https://github.com/weslleyanjos03-png/kanban-flow/issues). Não envie senhas, backups ou dados reais de clientes em issues públicas.
 
 Se o projeto ajudar na sua rotina, deixe uma ⭐ **Star** no GitHub e compartilhe com outras pessoas.
 
@@ -40,5 +40,4 @@ Se o projeto ajudar na sua rotina, deixe uma ⭐ **Star** no GitHub e compartilh
 
 **Projeto Weslley.IA — Kanban Flow**
 
-*English: A free, responsive, no-backend Kanban board for tasks and customer pipelines. Try the [live demo](https://weslleyanjos03-png.github.io/IA-Teste/).*
-Testes de sistema , SaaS+ IA
+*English: A free, responsive, no-backend Kanban board for tasks and customer pipelines. Try the [live demo](https://weslleyanjos03-png.github.io/kanban-flow/).*
