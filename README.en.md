@@ -6,7 +6,7 @@
 
 **A free, responsive Kanban board for tasks, leads, proposals, delivery and support — with no account or backend required.**
 
-[🚀 Live app](https://weslleyanjos03-png.github.io/IA-Teste/) · [🇧🇷 Portuguese README](README.md) · [⭐ Star on GitHub](https://github.com/weslleyanjos03-png/IA-Teste)
+[🚀 Live app](https://weslleyanjos03-png.github.io/kanban-flow/) · [🇧🇷 Portuguese README](README.md) · [⭐ Star on GitHub](https://github.com/weslleyanjos03-png/kanban-flow)
 
 </div>
 
@@ -22,11 +22,11 @@
 
 ## Try it
 
-Use the [live Kanban Flow demo](https://weslleyanjos03-png.github.io/IA-Teste/), or clone the project and open the HTML file in a modern web browser:
+Use the [live Kanban Flow demo](https://weslleyanjos03-png.github.io/kanban-flow/), or clone the project and open the HTML file in a modern web browser:
 
 ```bash
-git clone https://github.com/weslleyanjos03-png/IA-Teste.git
-cd IA-Teste
+git clone https://github.com/weslleyanjos03-png/kanban-flow.git
+cd kanban-flow
 ```
 
 Then open `index.html`. You don't need a build command, a server, an account or a paid service.

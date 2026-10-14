@@ -4,7 +4,7 @@ Obrigado pelo interesse em contribuir! Sugestões, relatos de erros e melhorias 
 
 ## Antes de começar
 
-1. Confira as [issues existentes](https://github.com/weslleyanjos03-png/IA-Teste/issues) para evitar solicitações duplicadas.
+1. Confira as [issues existentes](https://github.com/weslleyanjos03-png/kanban-flow/issues) para evitar solicitações duplicadas.
 2. Para mudanças maiores, abra uma issue descrevendo a proposta antes de programar.
 3. Faça um fork, crie uma branch descritiva e envie um Pull Request para `main`.
 4. Explique no Pull Request o objetivo, as alterações e como verificou o resultado.

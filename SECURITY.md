@@ -14,7 +14,7 @@ O Kanban Flow é um aplicativo estático, sem backend ou autenticação. As tare
 
 Se o repositório mostrar a opção **Security → Report a vulnerability**, use esse canal privado.
 
-Se a opção não estiver disponível, crie uma [issue](https://github.com/weslleyanjos03-png/IA-Teste/issues) **sem detalhes de exploração ou dados pessoais**, solicitando um canal privado de contato.
+Se a opção não estiver disponível, crie uma [issue](https://github.com/weslleyanjos03-png/kanban-flow/issues) **sem detalhes de exploração ou dados pessoais**, solicitando um canal privado de contato.
 
 Ao relatar, forneça uma descrição concisa, ambiente em que ocorreu e impacto potencial. Não publique tokens, senhas, bases de clientes nem backups.
 

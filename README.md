@@ -4,7 +4,7 @@
 
 **Organize tarefas, leads, propostas, produção, entregas e suporte em um quadro Kanban gratuito, responsivo e sem servidor.**
 
-[🚀 Acessar o aplicativo](https://weslleyanjos03-png.github.io/kanban-flow/) · [⭐ Dar uma estrela](https://github.com/weslleyanjos03-png/kanban-flow) · [🐛 Relatar problema](https://github.com/weslleyanjos03-png/kanban-flow/issues)
+[🚀 Acessar o aplicativo](https://weslleyanjos03-png.github.io/kanban-flow/) · [⭐ Dar uma estrela](https://github.com/weslleyanjos03-png/kanban-flow) · [🐛 Relatar problema](https://github.com/weslleyanjos03-png/kanban-flow/issues) · [🌍 English](README.en.md) · [📦 Versão v1.0.0](https://github.com/weslleyanjos03-png/kanban-flow/releases/tag/v1.0.0)
 
 ### ✨ Funcionalidades
 
@@ -30,7 +30,7 @@ O quadro começa vazio: nenhuma tarefa ou dado de cliente é publicado com o apl
 
 ### 🤝 Comunidade
 
-Encontrou um bug ou quer propor uma melhoria? [Abra uma issue](https://github.com/weslleyanjos03-png/kanban-flow/issues). Não envie senhas, backups ou dados reais de clientes em issues públicas.
+Encontrou um bug ou quer propor uma melhoria? [Abra uma issue](https://github.com/weslleyanjos03-png/kanban-flow/issues) e consulte o [guia de contribuição](CONTRIBUTING.md). Não envie senhas, backups ou dados reais de clientes em issues públicas. Leia também a [política de segurança](SECURITY.md).
 
 Se o projeto ajudar na sua rotina, deixe uma ⭐ **Star** no GitHub e compartilhe com outras pessoas.
 
@@ -38,6 +38,8 @@ Se o projeto ajudar na sua rotina, deixe uma ⭐ **Star** no GitHub e compartilh
 
 *Imagem de abertura: arte promocional conceitual. A interface real está disponível na demonstração online.*
 
-**Projeto Weslley.IA — Kanban Flow**
+### 📄 Licença
 
-*English: A free, responsive, no-backend Kanban board for tasks and customer pipelines. Try the [live demo](https://weslleyanjos03-png.github.io/kanban-flow/).*
+Código disponível sob a [licença MIT](LICENSE).
+
+**Projeto Weslley.IA — Kanban Flow**

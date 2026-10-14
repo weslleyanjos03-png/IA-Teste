@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weslleyanjos03-png.github.io/kanban-flow/sitemap.xml
